@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj": {}
+    "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj": {
+    "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
+        "projectUniqueName": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
         "projectName": "WPF_Project_1",
-        "projectPath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
+        "projectPath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
         "packagesPath": "C:\\Users\\Zhold\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\obj\\",
+        "outputPath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zhold\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "El5KsLMEmSNmSdCl83pen3LGlD91jMcwUAXV8I44XcE/LBf3VpS0sY87QGrd697+KvfoCmqjmusGSSMUq4E2pg==",
+  "dgSpecHash": "Bwm+WHL5LL5jhEfYEgO7eTjNxd7t+onrNXcsSfKKZYZuSJ8DYhiv/hNpqm5+ibJAAcVdQ4mWn7e8iFLVzR+ZsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
+  "projectFilePath": "C:\\Users\\Zhold\\OneDrive\\Рабочий стол\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1\\WPF_Project_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zhold\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Zhold\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
