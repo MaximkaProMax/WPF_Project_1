@@ -249,3 +249,12 @@ C:\Users\Zhold\OneDrive\Рабочий стол\WPF1\WPF_Project_1\WPF_Project_1
 C:\Users\Zhold\OneDrive\Рабочий стол\WPF1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1.csproj.CopyComplete
 C:\Users\Zhold\OneDrive\Рабочий стол\WPF1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1.genruntimeconfig.cache
 C:\Users\Zhold\OneDrive\Рабочий стол\WPF1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\ref\WPF_Project_1.dll
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1.csproj.AssemblyReference.cache
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1_MarkupCompile.cache
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1_MarkupCompile.lref
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1.dll
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\refint\WPF_Project_1.dll
+C:\Users\Zhold\OneDrive\Рабочий стол\WPF_Project_1\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\WPF_Project_1.pdb

@@ -53,7 +53,7 @@ namespace WPF_Project_1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_Project_1;V1.0.0.0;component/adminwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_Project_1;component/adminwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AdminWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
