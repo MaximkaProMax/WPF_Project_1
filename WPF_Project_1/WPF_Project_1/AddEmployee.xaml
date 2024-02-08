@@ -1,7 +1,7 @@
-<Window x:Class="AddEmployeeWindow"
+<Window x:Class="WPF_Project_1.AddEmployeeWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Äîáàâèòü íîâîãî ñîòðóäíèêà" Height="300" Width="400">
+        Title="Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°" Height="300" Width="400">
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -15,18 +15,18 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Label Content="Èìÿ:" Grid.Row="0" Grid.Column="0"/>
+        <Label Content="Ð˜Ð¼Ñ:" Grid.Row="0" Grid.Column="0"/>
         <TextBox Grid.Row="0" Grid.Column="1"/>
 
-        <Label Content="Ëîãèí:" Grid.Row="1" Grid.Column="0"/>
+        <Label Content="Ð›Ð¾Ð³Ð¸Ð½:" Grid.Row="1" Grid.Column="0"/>
         <TextBox Grid.Row="1" Grid.Column="1"/>
 
-        <Label Content="Ïàðîëü:" Grid.Row="2" Grid.Column="0"/>
+        <Label Content="ÐŸÐ°Ñ€Ð¾Ð»ÑŒ:" Grid.Row="2" Grid.Column="0"/>
         <PasswordBox Grid.Row="2" Grid.Column="1"/>
 
-        <Label Content="Ðîëü:" Grid.Row="3" Grid.Column="0"/>
+        <Label Content="Ð Ð¾Ð»ÑŒ:" Grid.Row="3" Grid.Column="0"/>
         <ComboBox Grid.Row="3" Grid.Column="1"/>
 
-        <Button Content="Äîáàâèòü" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Margin="0,13,0,-13"/>
+        <Button Content="Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Margin="0,13,0,13"/>
     </Grid>
 </Window>
