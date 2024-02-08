@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Project_1"
         mc:Ignorable="d"
-        Title="Авторизация" SizeToContent="WidthAndHeight">
+        Title="Авторизация" SizeToContent="WidthAndHeight"
+        Background="Purple">
+
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -18,15 +20,15 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Label Content="Логин:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+            <Label Content="Логин:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Foreground="White"/>
             <TextBox x:Name="UsernameTextBox" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 0, 10, 0" Height="31"/>
 
-            <Label Content="Пароль:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"/>
+            <Label Content="Пароль:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Foreground="White"/>
             <PasswordBox x:Name="PasswordBox" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 0, 10, 0" Height="31"/>
 
             <Button Content="Войти" HorizontalAlignment="Center" Margin="10" Height="30" Width="200">
                 <Button.Background>
-                    <SolidColorBrush Color="#D9534F"/>
+                    <SolidColorBrush Color="#d1f0c2"/>
                 </Button.Background>
             </Button>
 

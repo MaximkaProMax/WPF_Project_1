@@ -5,43 +5,45 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Project_1"
         mc:Ignorable="d"
-        Title="Администратор" SizeToContent="WidthAndHeight">
-	<Grid>
-		<Grid.RowDefinitions>
-			<RowDefinition Height="Auto"/>
-			<RowDefinition Height="*"/>
-			<RowDefinition Height="Auto"/>
-		</Grid.RowDefinitions>
+        Title="Администратор" SizeToContent="WidthAndHeight"
+        Background="Purple">
 
-		<Grid.ColumnDefinitions>
-			<ColumnDefinition Width="*"/>
-		</Grid.ColumnDefinitions>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
-		<StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
-			<Button Content="Управление сотрудниками" MinWidth="200" MinHeight="50" Margin="10">
-				<Button.Background>
-					<SolidColorBrush Color="#F5F5DC"/>
-				</Button.Background>
-			</Button>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Управление сотрудниками" MinWidth="200" MinHeight="50" Margin="10">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFFFFF"/>
+                </Button.Background>
+            </Button>
 
 
-			<Button Content="Управление заказами" MinWidth="200" MinHeight="50" Margin="10">
-				<Button.Background>
-					<SolidColorBrush Color="#F5F5DC"/>
-				</Button.Background>
-			</Button>
+            <Button Content="Управление заказами" MinWidth="200" MinHeight="50" Margin="10">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFFFFF"/>
+                </Button.Background>
+            </Button>
 
-			<Button Content="Управление сменами" MinWidth="200" MinHeight="50" Margin="10">
-				<Button.Background>
-					<SolidColorBrush Color="#F5F5DC"/>
-				</Button.Background>
-			</Button>
+            <Button Content="Управление сменами" MinWidth="200" MinHeight="50" Margin="10">
+                <Button.Background>
+                    <SolidColorBrush Color="#FFFFFF"/>
+                </Button.Background>
+            </Button>
 
-			<Button Content="Выйти" Margin="10" Height="30" Width="200">
-				<Button.Background>
-					<SolidColorBrush Color="#D9534F"/>
-				</Button.Background>
-			</Button>
-		</StackPanel>
-	</Grid>
+            <Button Content="Выйти" Margin="10" Height="30" Width="200">
+                <Button.Background>
+                    <SolidColorBrush Color="#D9534F"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+    </Grid>
 </Window>
